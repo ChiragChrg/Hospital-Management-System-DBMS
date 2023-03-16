@@ -3,9 +3,8 @@
 <b>Link</b> : https://github.com/hrishikeshathalye/Hospital-Management-System-DBMS
 
 <pre>
-Name: Hrishikesh Athalye
-MIS: 111803154
-Class : TY Comp Div 2
+Name:  V Jeevan kumar
+Class : DBMS MCA B
 </pre>
 
 Hospital Management System made for Sem 5 DBMS Course Project.<br>
